@@ -1,0 +1,24 @@
+{
+  "name": "crud-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node your_script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.7.1",
+    "nodemon": "^3.0.3",
+    "target": "es6",
+    "module": "index.js",
+    "outDir": "./dist",
+    "rootDir": "./src"
+  }
+  
+}
